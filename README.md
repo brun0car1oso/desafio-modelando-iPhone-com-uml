@@ -1,10 +1,12 @@
 # Projeto desafio DIO modelando iPhone com UML 
 
 🚀 Tecnologias e Linguagens 
-    -Java
-    -UML
+- **JAVA**
+- **UML**
 
 ## Diagrama de classe 
+
+```mermaid
 
 classDiagram 
 
@@ -45,11 +47,10 @@ class NavegadorInternet {
 }
 
 
-
 Iphone --> ReprodutorMusical
 
 Iphone --> AparelhoTelefonico
 
 Iphone --> NavegadorInternet
 
-
+```
