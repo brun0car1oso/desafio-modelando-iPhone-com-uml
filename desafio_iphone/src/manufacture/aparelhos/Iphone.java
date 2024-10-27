@@ -47,6 +47,8 @@ public class Iphone implements AparelhoTelefonico, NavegadorInternet, Reprodutor
 	// Métodos NavegadorIntenet 
 
 	public void exibirPagina() {
+		
+		System.out.print("Digite o endereço https:");
 
 		url = scanner.next();
 		
